@@ -1,0 +1,1 @@
+Extracted from [HumanStandardTokenFactory](https://github.com/ConsenSys/Tokens/blob/master/Token_Contracts/contracts/HumanStandardTokenFactory.sol#L39).
