@@ -1,5 +1,5 @@
-library CodeAt {
-  function codeAt(address _addr) returns (bytes o_code) {
+library GetCode {
+  function at(address _addr) constant returns (bytes o_code) {
     assembly {
       // retrieve the size of the code, this needs assembly
       let size := extcodesize(_addr)
