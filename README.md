@@ -1,1 +1,1 @@
-Extracted from [HumanStandardTokenFactory](https://github.com/ConsenSys/Tokens/blob/master/Token_Contracts/contracts/HumanStandardTokenFactory.sol#L39).
+Extracted from [Solidity documentation](http://solidity.readthedocs.io/en/latest/control-structures.html?#example).
